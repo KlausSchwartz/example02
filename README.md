@@ -21,3 +21,14 @@ Use the correct version for your Hyperledger network.
 ****
 
 Not familiar with chaincode yet? Try [Learn Chaincode](https://github.com/IBM-Blockchain/learn-chaincode) first.
+
+
+
+##############
+
+There are very nice videos that explain the first steps to change and deploy this chaincode into Bluemix / Hyperledger.
+
+https://www.youtube.com/watch?v=EdsBwwLo1rI
+https://www.youtube.com/watch?v=vxT7UQHrAfA
+https://www.youtube.com/watch?v=hrVIrQ_z5Mw
+
